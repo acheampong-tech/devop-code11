@@ -1,14 +1,13 @@
-
   <!DOCTYPE html>
   <html lang="en">
   <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Live preview for Angel - Beauty Salon Store WooCommerce WordPress Elementor Theme #73332</title>
-<meta property="og:title" content="Live preview for Angel - Beauty Salon Store WooCommerce WordPress Elementor Theme #73332"/>
-<meta name="twitter:title" content="Live preview for Angel - Beauty Salon Store WooCommerce WordPress Elementor Theme #73332"/>
-<meta name="og:image:alt" content="Live preview for Angel - Beauty Salon Store WooCommerce WordPress Elementor Theme #73332"/>
+    <title>Live preview for Webion - Minimal Elementor Multipurpose WordPress Theme #68092</title>
+<meta property="og:title" content="Live preview for Webion - Minimal Elementor Multipurpose WordPress Theme #68092"/>
+<meta name="twitter:title" content="Live preview for Webion - Minimal Elementor Multipurpose WordPress Theme #68092"/>
+<meta name="og:image:alt" content="Live preview for Webion - Minimal Elementor Multipurpose WordPress Theme #68092"/>
       <meta name="robots" content="noindex,nofollow">
   <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180">
   <link rel="apple-touch-icon-precomposed" href="/apple-touch-icon.png" sizes="180x180">
@@ -28,12 +27,12 @@
   <meta name="twitter:site" content="@templatemonster"/>
   <meta name="twitter:creator" content="@templatemonster"/>
   <meta property="og:type" content="page"/>
-  <meta name="description" content="The live preview of this high quality Angel - Beauty Salon Store WooCommerce Elementor WordPress Theme (#73332) is available here for you to get yourself familiar with the theme before you choose to buy it. View the pages, check out the images, click the buttons, explore the features.">
-  <meta property="og:description" content="The live preview of this high quality Angel - Beauty Salon Store WooCommerce Elementor WordPress Theme (#73332) is available here for you to get yourself familiar with the theme before you choose to buy it. View the pages, check out the images, click the buttons, explore the features.">
-  <meta property="twitter:description" content="@templatemonster The live preview of this high quality Angel - Beauty Salon Store WooCommerce Elementor WordPress Theme (#73332) is available here for you to get yourself familiar with the theme before you choose to buy it. View the pages, check out the images, click the buttons, explore the features.">
-  <meta property="og:image" content="https://s.tmimgcdn.com/scr/1200x627/73300/angel-beauty-salon-store-woocommerce-wordpress-elementor-theme_73332-original.png">
-  <meta property="twitter:image" content="https://s.tmimgcdn.com/scr/1200x627/73300/angel-beauty-salon-store-woocommerce-wordpress-elementor-theme_73332-original.png">
-  <link property="image_src" href="https://s.tmimgcdn.com/scr/1200x627/73300/angel-beauty-salon-store-woocommerce-wordpress-elementor-theme_73332-original.png">
+  <meta name="description" content="Before you decide to buy it, get knowledgeable about the high quality Webion - Minimal Elementor Multipurpose WordPress Theme (#68092) by visiting the demo preview. Go through the pages, check the images, press the buttons, explore the features.">
+  <meta property="og:description" content="Before you decide to buy it, get knowledgeable about the high quality Webion - Minimal Elementor Multipurpose WordPress Theme (#68092) by visiting the demo preview. Go through the pages, check the images, press the buttons, explore the features.">
+  <meta property="twitter:description" content="@templatemonster Before you decide to buy it, get knowledgeable about the high quality Webion - Minimal Elementor Multipurpose WordPress Theme (#68092) by visiting the demo preview. Go through the pages, check the images, press the buttons, explore the features.">
+  <meta property="og:image" content="https://s.tmimgcdn.com/scr/1200x627/68000/webion-minimal-elementor-multipurpose-wordpress-theme_68092-8-original.png">
+  <meta property="twitter:image" content="https://s.tmimgcdn.com/scr/1200x627/68000/webion-minimal-elementor-multipurpose-wordpress-theme_68092-8-original.png">
+  <link property="image_src" href="https://s.tmimgcdn.com/scr/1200x627/68000/webion-minimal-elementor-multipurpose-wordpress-theme_68092-8-original.png">
   <meta property="og:image:width" content="1200">
   <meta property="og:image:height" content="627">
   <meta property="fb:app_id" content="128293383907353"/>
@@ -53,26 +52,26 @@
 <!-- End Google Tag Manager (noscript) -->
   <div class="wrap">
     <header class="header" id="frame-panel">
-  <a href="https://www.templatemonster.com/woocommerce-themes/angel-beauty-salon-store-woocommerce-theme-73332.html" class="back-to-product">
+  <a href="https://www.templatemonster.com/wordpress-themes/webion-a-minimalist-wordpress-theme-68092.html" class="back-to-product">
     <span class="back-to-product-icon"></span>
-    Angel - Beauty Salon Store WooCommerce WordPress Elementor Theme  </a>
+    Webion - Minimal Elementor Multipurpose WordPress Theme  </a>
   <div class="devices devices-static" id="devices" data-translations="{&quot;desktop&quot;:&quot;Desktop&quot;,&quot;tablet&quot;:&quot;Tablet&quot;,&quot;smartphone&quot;:&quot;Mobile&quot;}"></div>
   <div class="header-buttons">
     <div class="add-to-cart" id="add-to-cart"
       data-translations="{&quot;label&quot;:&quot;Buy Now&quot;,&quot;modalLabel&quot;:&quot;Add to Cart&quot;,&quot;servicesTitle&quot;:&quot;Recommended services available for this item&quot;,&quot;freeTitle&quot;:&quot;Free Product&quot;}"
-      data-product-id="73332"
-      data-product-title="Angel - Beauty Salon Store WooCommerce WordPress Elementor Theme"
+      data-product-id="68092"
+      data-product-title="Webion - Minimal Elementor Multipurpose WordPress Theme"
       data-type-id="17"
-      data-licenses="[{&quot;type&quot;:&quot;regular&quot;,&quot;modifier&quot;:{&quot;type&quot;:&quot;amount&quot;,&quot;value&quot;:0,&quot;operation&quot;:&quot;addition&quot;},&quot;id&quot;:46,&quot;items&quot;:[],&quot;isDefault&quot;:1,&quot;translates&quot;:{&quot;title&quot;:&quot;Personal license&quot;,&quot;description&quot;:&quot;This license can be used only for one personal website. With this license, you can&#039;t resell or redistribute the template or the end product based on it&quot;},&quot;prices&quot;:{&quot;regular&quot;:67,&quot;regularLabel&quot;:&quot;$67&quot;,&quot;discount&quot;:67,&quot;discountLabel&quot;:&quot;$67&quot;},&quot;gee&quot;:{&quot;variant&quot;:&quot;regular + 46&quot;}},{&quot;type&quot;:&quot;commercial&quot;,&quot;modifier&quot;:{&quot;type&quot;:&quot;percent&quot;,&quot;value&quot;:30,&quot;operation&quot;:&quot;addition&quot;},&quot;id&quot;:47,&quot;items&quot;:[],&quot;isDefault&quot;:0,&quot;translates&quot;:{&quot;title&quot;:&quot;Commercial license&quot;,&quot;description&quot;:&quot;With this license, you and your clients can create up to five different websites. The license allows you to transfer or resell the end products (websites based on this template)&quot;},&quot;prices&quot;:{&quot;regular&quot;:87,&quot;regularLabel&quot;:&quot;$87&quot;,&quot;discount&quot;:87,&quot;discountLabel&quot;:&quot;$87&quot;},&quot;gee&quot;:{&quot;variant&quot;:&quot;regular + 47&quot;}}]"
+      data-licenses="[{&quot;type&quot;:&quot;regular&quot;,&quot;modifier&quot;:{&quot;type&quot;:&quot;amount&quot;,&quot;value&quot;:0,&quot;operation&quot;:&quot;addition&quot;},&quot;id&quot;:46,&quot;items&quot;:[],&quot;isDefault&quot;:1,&quot;translates&quot;:{&quot;title&quot;:&quot;Personal license&quot;,&quot;description&quot;:&quot;This license can be used only for one personal website. With this license, you can&#039;t resell or redistribute the template or the end product based on it&quot;},&quot;prices&quot;:{&quot;regular&quot;:91,&quot;regularLabel&quot;:&quot;$91&quot;,&quot;discount&quot;:91,&quot;discountLabel&quot;:&quot;$91&quot;},&quot;gee&quot;:{&quot;variant&quot;:&quot;regular + 46&quot;}},{&quot;type&quot;:&quot;commercial&quot;,&quot;modifier&quot;:{&quot;type&quot;:&quot;percent&quot;,&quot;value&quot;:30,&quot;operation&quot;:&quot;addition&quot;},&quot;id&quot;:47,&quot;items&quot;:[],&quot;isDefault&quot;:0,&quot;translates&quot;:{&quot;title&quot;:&quot;Commercial license&quot;,&quot;description&quot;:&quot;With this license, you and your clients can create up to five different websites. The license allows you to transfer or resell the end products (websites based on this template)&quot;},&quot;prices&quot;:{&quot;regular&quot;:118,&quot;regularLabel&quot;:&quot;$118&quot;,&quot;discount&quot;:118,&quot;discountLabel&quot;:&quot;$118&quot;},&quot;gee&quot;:{&quot;variant&quot;:&quot;regular + 47&quot;}}]"
       data-services="[{&quot;id&quot;:13,&quot;translates&quot;:{&quot;title&quot;:&quot;Installation &amp; Setup&quot;},&quot;prices&quot;:{&quot;regular&quot;:54,&quot;regularLabel&quot;:&quot;$54&quot;,&quot;discount&quot;:34,&quot;discountLabel&quot;:&quot;$34&quot;},&quot;gee&quot;:{&quot;name&quot;:&quot;Offer&quot;,&quot;id&quot;:13,&quot;price&quot;:0.34,&quot;brand&quot;:&quot;TT&quot;,&quot;category&quot;:&quot;TT : WordPress Themes : Installation &amp; Setup&quot;,&quot;variant&quot;:&quot;premium&quot;,&quot;position&quot;:1,&quot;list&quot;:&quot;Type - Offers&quot;}},{&quot;id&quot;:362,&quot;translates&quot;:{&quot;title&quot;:&quot;Must-Have Plugins&quot;},&quot;prices&quot;:{&quot;regular&quot;:84,&quot;regularLabel&quot;:&quot;$84&quot;,&quot;discount&quot;:24,&quot;discountLabel&quot;:&quot;$24&quot;},&quot;gee&quot;:{&quot;name&quot;:&quot;Offer&quot;,&quot;id&quot;:362,&quot;price&quot;:0.24,&quot;brand&quot;:&quot;TT&quot;,&quot;category&quot;:&quot;TT: WordPress&amp;Elementor: Must-Have Plugins&quot;,&quot;variant&quot;:&quot;premium&quot;,&quot;position&quot;:2,&quot;list&quot;:&quot;Type - Offers&quot;}},{&quot;id&quot;:909,&quot;translates&quot;:{&quot;title&quot;:&quot;GDPR &amp; CCPA Compliance - New Privacy Rules&quot;},&quot;prices&quot;:{&quot;regular&quot;:99,&quot;regularLabel&quot;:&quot;$99&quot;,&quot;discount&quot;:49,&quot;discountLabel&quot;:&quot;$49&quot;},&quot;gee&quot;:{&quot;name&quot;:&quot;Offer&quot;,&quot;id&quot;:909,&quot;price&quot;:0.49,&quot;brand&quot;:&quot;Zemez&quot;,&quot;category&quot;:&quot;TM: WP&amp;Woo: GDPR &amp; CCPA Compliance - New Privacy Rules&quot;,&quot;variant&quot;:&quot;premium&quot;,&quot;position&quot;:3,&quot;list&quot;:&quot;Type - Offers&quot;}},{&quot;id&quot;:1180,&quot;translates&quot;:{&quot;title&quot;:&quot;Classic Website Customization Service&quot;},&quot;prices&quot;:{&quot;regular&quot;:299,&quot;regularLabel&quot;:&quot;$299&quot;,&quot;discount&quot;:149,&quot;discountLabel&quot;:&quot;$149&quot;},&quot;gee&quot;:{&quot;name&quot;:&quot;Offer&quot;,&quot;id&quot;:1180,&quot;price&quot;:1.49,&quot;brand&quot;:&quot;TT&quot;,&quot;category&quot;:&quot;TT: WP: Classic Website Customization Service&quot;,&quot;variant&quot;:&quot;premium&quot;,&quot;position&quot;:4,&quot;list&quot;:&quot;Type - Offers&quot;}},{&quot;id&quot;:1756,&quot;translates&quot;:{&quot;title&quot;:&quot;Most Needed Website Pack&quot;},&quot;prices&quot;:{&quot;regular&quot;:827,&quot;regularLabel&quot;:&quot;$827&quot;,&quot;discount&quot;:399,&quot;discountLabel&quot;:&quot;$399&quot;},&quot;gee&quot;:{&quot;name&quot;:&quot;Offer&quot;,&quot;id&quot;:1756,&quot;price&quot;:3.99,&quot;brand&quot;:&quot;TT&quot;,&quot;category&quot;:&quot;TT: Most Needed Website Pack (for WordPress &amp; Joomla)&quot;,&quot;variant&quot;:&quot;premium&quot;,&quot;position&quot;:5,&quot;list&quot;:&quot;Type - Offers&quot;}}]"
-      data-paid-supports="{&quot;isIncludeBasicSupport&quot;:true,&quot;items&quot;:[{&quot;id&quot;:10251,&quot;translates&quot;:{&quot;title&quot;:&quot;Get 6 more months of support and save $27&quot;,&quot;description&quot;:&quot;With a product you will get 6 months of support from the author. To know more about what is included, please read the &lt;a href=\&quot;https:\/\/www.templatemonster.com\/support-policy\/\&quot; target=\&quot;_blank\&quot;&gt;support policy&lt;\/a&gt;.&quot;},&quot;prices&quot;:{&quot;regular&quot;:47,&quot;regularLabel&quot;:&quot;$47&quot;,&quot;discount&quot;:20,&quot;discountLabel&quot;:&quot;$20&quot;},&quot;gee&quot;:{&quot;name&quot;:&quot;Offer&quot;,&quot;id&quot;:10251,&quot;price&quot;:0.2,&quot;brand&quot;:&quot;TM&quot;,&quot;category&quot;:&quot;paid support&quot;,&quot;variant&quot;:&quot;premium&quot;,&quot;position&quot;:1,&quot;list&quot;:&quot;Type - Paid Support&quot;}}]}"
+      data-paid-supports="{&quot;isIncludeBasicSupport&quot;:true,&quot;items&quot;:[{&quot;id&quot;:9185,&quot;translates&quot;:{&quot;title&quot;:&quot;Get 6 more months of support and save $37&quot;,&quot;description&quot;:&quot;With a product you will get 6 months of support from the author. To know more about what is included, please read the &lt;a href=\&quot;https:\/\/www.templatemonster.com\/support-policy\/\&quot; target=\&quot;_blank\&quot;&gt;support policy&lt;\/a&gt;.&quot;},&quot;prices&quot;:{&quot;regular&quot;:64,&quot;regularLabel&quot;:&quot;$64&quot;,&quot;discount&quot;:27,&quot;discountLabel&quot;:&quot;$27&quot;},&quot;gee&quot;:{&quot;name&quot;:&quot;Offer&quot;,&quot;id&quot;:9185,&quot;price&quot;:0.27,&quot;brand&quot;:&quot;TM&quot;,&quot;category&quot;:&quot;paid support&quot;,&quot;variant&quot;:&quot;premium&quot;,&quot;position&quot;:1,&quot;list&quot;:&quot;Type - Paid Support&quot;}}]}"
       data-free="{&quot;enable&quot;:false}"
       data-is-state-sale="true"
       data-is-default-paid-support-on="false"
-      data-product-gee="{&quot;name&quot;:&quot;WordPress theme&quot;,&quot;id&quot;:73332,&quot;price&quot;:0.67,&quot;brand&quot;:&quot;Website templates&quot;,&quot;category&quot;:&quot;Beauty Salon Templates&quot;,&quot;variant&quot;:&quot;premium&quot;,&quot;list&quot;:&quot;Type&quot;}">
+      data-product-gee="{&quot;name&quot;:&quot;WordPress theme&quot;,&quot;id&quot;:68092,&quot;price&quot;:0.91,&quot;brand&quot;:&quot;Website templates&quot;,&quot;category&quot;:&quot;Consulting Templates&quot;,&quot;variant&quot;:&quot;premium&quot;,&quot;list&quot;:&quot;Type&quot;}">
     </div>
           <a
-        href="https://www.templatemonster.com/monsterone/tm-membership/?id=73332"
+        href="https://www.templatemonster.com/monsterone/tm-membership/?id=68092"
         target=""
         rel="nofollow"
         class="header-btn header-btn_membership"
@@ -104,11 +103,11 @@
 </header>
       <section class="content">
     <div class="frame-wrapper" id="frame-wrapper">
-      <iframe class="frame" src="http://angel.iamabdus.com/v1.3/" width="100%" height="400px" title="Preview Template" sandbox="allow-forms allow-same-origin allow-scripts allow-top-navigation allow-popups"></iframe>          </div>
+      <iframe class="frame" src="https://ld-wp73.template-help.com/wordpress/prod_15696/v6/" width="100%" height="400px" title="Preview Template" sandbox="allow-forms allow-same-origin allow-scripts allow-top-navigation allow-popups"></iframe>          </div>
   </section>
   </div>
   <script type="application/ld+json">
-{"@context": "http://schema.org","@graph": [{"@context":"http://schema.org","@type":"WebPage","name":"Live preview for Angel - Beauty Salon Store WooCommerce WordPress Elementor Theme #73332","url":"https://demo.templatemonster.com/demo/73332.html","description":"The live preview of this high quality Angel - Beauty Salon Store WooCommerce Elementor WordPress Theme (#73332) is available here for you to get yourself familiar with the theme before you choose to buy it. View the pages, check out the images, click the buttons, explore the features."}]}
+{"@context": "http://schema.org","@graph": [{"@context":"http://schema.org","@type":"WebPage","name":"Live preview for Webion - Minimal Elementor Multipurpose WordPress Theme #68092","url":"https://demo.templatemonster.com/demo/68092.html","description":"Before you decide to buy it, get knowledgeable about the high quality Webion - Minimal Elementor Multipurpose WordPress Theme (#68092) by visiting the demo preview. Go through the pages, check the images, press the buttons, explore the features."}]}
 </script>
   <script type="text/javascript">
   window.__app__ = window.__app__ || {};
@@ -117,9 +116,9 @@
       <script src="//www.templatemonster.com/assets/js/commons-3cc9690538f3ccf30162.js" async="async"></script>
 <script src="//www.templatemonster.com/assets/js/demo-eee3823dbd52cf41949a.js" async="async"></script>
 <script>window.addEventListener('load', function() {
-window.dataLayer = window.dataLayer || []; window.dataLayer.push({"pageType":"Cross-page","portalName":"All","portalContent":"All","categoryName":"Other","authorGAId":"UA-126052018-1"});
+window.dataLayer = window.dataLayer || []; window.dataLayer.push({"pageType":"Cross-page","portalName":"All","portalContent":"All","categoryName":"Other","authorGAId":"UA-213171907-1","authorFBPixelId":"1857475610982695"});
 });
 window.addEventListener('load', function() {
-  window.dataLayer = window.dataLayer || []; window.dataLayer.push({"event":"detailView","ecommerce":{"detail":{"products":[{"name":"WordPress theme","id":"73332","price":0.67,"brand":"Website templates","category":"Beauty Salon Templates","variant":"premium"}]}}});window.dataLayer.push({"event":"detailViewNew","productDetailView":{"name":"Angel - Beauty Salon Store WooCommerce WordPress Elementor Theme","id":"73332","price":0.67,"brand":"Website templates","category":"Beauty Salon Templates","variant":"premium","imageurl":"https:\/\/s.tmimgcdn.com\/scr\/800x500\/73300\/angel-beauty-salon-store-woocommerce-wordpress-elementor-theme_73332-original.png","similars":[]}});
+  window.dataLayer = window.dataLayer || []; window.dataLayer.push({"event":"detailView","ecommerce":{"detail":{"products":[{"name":"WordPress theme","id":"68092","price":0.91,"brand":"Website templates","category":"Consulting Templates","variant":"premium"}]}}});window.dataLayer.push({"event":"detailViewNew","productDetailView":{"name":"Webion - Minimal Elementor Multipurpose WordPress Theme","id":"68092","price":0.91,"brand":"Website templates","category":"Consulting Templates","variant":"premium","imageurl":"https:\/\/s.tmimgcdn.com\/scr\/800x500\/68000\/webion-minimal-elementor-multipurpose-wordpress-theme_68092-8-original.png","similars":[]}});
 });</script>  </body>
   </html>
