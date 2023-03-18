@@ -13,7 +13,7 @@
   <artifactId>devops6</artifactId>
   <packaging>war</packaging>
   <name>devops6</name>
-  <description>devops6</description>
+  <description>devops6.</description>
 
   <build>
     <finalName>${project.artifactId}</finalName>
