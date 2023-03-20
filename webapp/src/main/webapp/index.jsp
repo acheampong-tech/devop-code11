@@ -1,11 +1,10 @@
-  
-  <!DOCTYPE html>
+    <!DOCTYPE html>
   <html lang="en">
   <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Demo Preview for Hazel - Clean Minimalist Multi-Purpose WordPress Theme #67167</title>
+    <title>Demo. Preview for Hazel - Clean Minimalist Multi-Purpose WordPress Theme #67167</title>
 <meta property="og:title" content="Demo Preview for Hazel - Clean Minimalist Multi-Purpose WordPress Theme #67167"/>
 <meta name="twitter:title" content="Demo Preview for Hazel - Clean Minimalist Multi-Purpose WordPress Theme #67167"/>
 <meta name="og:image:alt" content="Demo Preview for Hazel - Clean Minimalist Multi-Purpose WordPress Theme #67167"/>
