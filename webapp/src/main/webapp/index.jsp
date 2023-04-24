@@ -109,5 +109,4 @@ window.dataLayer = window.dataLayer || []; window.dataLayer.push({"pageType":"Cr
 window.addEventListener('load', function() {
   window.dataLayer = window.dataLayer || []; window.dataLayer.push({"event":"detailView","ecommerce":{"detail":{"products":[{"name":"WordPress theme","id":"67167","price":0.98,"brand":"Website templates","category":"Marketing Agency Templates","variant":"premium"}]}}});window.dataLayer.push({"event":"detailViewNew","productDetailView":{"name":"Hazel - Clean Minimalist Multi-Purpose WordPress Theme","id":"67167","price":0.98,"brand":"Website templates","category":"Marketing Agency Templates","variant":"premium","imageurl":"https:\/\/s.tmimgcdn.com\/scr\/800x500\/67100\/hazel-clean-minimalist-multi-purpose-wordpress-theme_67167-6-original.jpg","similars":[]}});
 });</script>  </body>
-  </html>
-
+  </html> 
